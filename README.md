@@ -1,6 +1,8 @@
 # Minimalist Portfolio Website
 
-A clean, modern portfolio website built with Next.js and Tailwind CSS, featuring smooth animations and dark/light theme support.
+url:
+
+https://sj-portfolio-sbbtt-sbbtts-projects.vercel.app
 
 ## ✨ Features
 
